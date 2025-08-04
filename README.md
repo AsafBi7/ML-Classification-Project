@@ -1,4 +1,10 @@
 # Loan Approval Prediction - Machine Learning Project
+![Python](https://img.shields.io/badge/Python-3.12.7-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.1-yellow)
+![pandas](https://img.shields.io/badge/pandas-2.2.2-blue)
+![numpy](https://img.shields.io/badge/numpy-1.26.4-lightgrey)
+![Status](https://img.shields.io/badge/Status-Submission--Ready-brightgreen)
+![AUC](https://img.shields.io/badge/AUC-0.9176-brightgreen)
 
 This project aims to predict whether a loan application will be approved or rejected using various machine learning models. The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and evaluation based on AUC and other performance metrics.
 
