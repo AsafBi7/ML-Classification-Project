@@ -38,7 +38,7 @@ This project aims to predict whether a loan application will be approved or reje
 - **AUC**: 0.9176  
 - **Business-driven optimization**: False Positive Rate (FPR) minimized due to asymmetric risk of false approvals
 
-## 📈 ROC Curve
+### 📈 ROC Curve
 
 This plot shows the ROC curve of the best-performing model (Random Forest) on the test set:
 <img width="478" height="386" alt="image" src="https://github.com/user-attachments/assets/18857e29-f9e4-46ed-aea9-d9832e9ec82e" />
