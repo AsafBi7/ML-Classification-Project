@@ -7,7 +7,9 @@
 ![AUC](https://img.shields.io/badge/AUC-0.9176-brightgreen)
 
 This project aims to predict whether a loan application will be approved or rejected using various machine learning models.
+
 It was completed as part of the "Introduction to Machine Learning" course during my B.Sc. in Data Science at Tel Aviv University and received a final grade of 98/100, reflecting both technical quality and presentation.
+
 The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and evaluation based on AUC and other performance metrics.
 
 ## 🔍 Project Objectives
