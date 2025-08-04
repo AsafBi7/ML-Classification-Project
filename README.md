@@ -56,7 +56,7 @@ This plot shows the ROC curve of the best-performing model (Random Forest) on th
 
 ## 📊 Libraries & Tools
 
-- Python (Pandas, NumPy, Scikit-learn, seaborn, matplotlib)
+- Python (Pandas, NumPy, Scikit-learn)
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
