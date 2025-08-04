@@ -11,9 +11,11 @@ This project aims to predict whether a loan application will be approved or reje
 
 ## 📁 Files Included
 
-- `Submission_group15.pdf` — Full project report (in Hebrew)
-- `Submission_group15.ipynb` — Jupyter notebook with end-to-end ML pipeline
-- `Submission_group15.csv` — Dataset used for training and testing (anonymized)
+- `Submission_group15.pdf` - Full project report (in Hebrew)
+- `Submission_group15.ipynb` - Jupyter notebook with end-to-end ML pipeline
+- `Submission_group15.csv` - Final submission file containing `customer_id` and predicted approval probabilities (`predict_prob`)
+- `train.csv` - Dataset used for training 
+- `test.csv` - Dataset used for evaluation
 
 ## 🧠 ML Models Used
 
